@@ -17,7 +17,8 @@
 2. Favorite color: Yellow
 3. Favorite food: Pizza
 4. Pinneapple on pizza: 
-- [x] yes or  - [ ] no
+- [x] yes 
+- [ ] no
 
 ### Hobbies 
 
