@@ -7,16 +7,16 @@
 ## Bienvenu chez moi 
 
 
-| sport  |      code    |  voyage|
-|:----------|:------------- |:------ |
+|sport|      code    | voyage|
+|:----|:-------------|:------|
 | art martiaux|  html css js| europe |
-|            |              |        |
+
 
 
 1. Birthday: 22/07
 2. Favorite color: Yellow
 3. Favorite food: Pizza
-4. Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+4. Pinneapple on pizza: [x] / [ ]
 
 ### Hobbies 
 
