@@ -1,7 +1,7 @@
 # Greg Di Caro
 *« Le succès c’est d’aller d’échec en échec sans perdre son enthousiasme.  » Winston Churchill*
 
-![Greg](https://www.linkedin.com/in/greg-di-caro-1535b91a9/)
+![Greg](https://media-exp1.licdn.com/dms/image/C4D03AQEv7NBQp1R-VA/profile-displayphoto-shrink_200_200/0/1610033692173?e=1615420800&v=beta&t=30UqO3ZXdwb-lGdndzUcNQSnpul6g_IhTFbnDuLRnZE)
 
 
 ## Bienvenu chez moi 
