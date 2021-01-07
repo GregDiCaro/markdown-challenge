@@ -1,39 +1,43 @@
-Your Name (as a large header)
+# Greg Di Caro
+*« Le succès c’est d’aller d’échec en échec sans perdre son enthousiasme.  » Winston Churchill*
 
-An inspirational quote in italics
+![Greg](https://zupimages.net/viewer.php?id=21/01/sz8x.png)
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-"Me, in one sentence" (as a smaller header)
+## Bienvenu chez moi 
 
-A table with the following structure:
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+| sport  |      code    |  voyage|
+|:----------|:------------- |:------ |
+| art martiaux|  html css js| europe |
+|            |              |        |
 
-Hobbies (smaller header)
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+1. Birthday: 22/07
+2. Favorite color: Yellow
+3. Favorite food: Pizza
+4. Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-You can always count on me when... (smaller header)
+### Hobbies 
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+1. jerry maguire
+2. hurricane carter
+3. djal portugal
+    1. comedy club
+    2. H
+4. escape game
 
-A funny story (smaller header)
+## You can always count on me when... i known it 
 
-Tell a short funny story about your life.
+Partager mes connaissance,mon esprit d equipe 
+### Pourquoi les Belges viennent-ils à la messe avec du savon ?Pour l’Ave Maria.
 
-TL;DR (even smaller header, under funny story)
 
-Summarise your funny story in one short sentence.
+j etais chez becode j ai couru un peu trop vite et me voila de nouveau chez becode 
 
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
+#### Que fait un crocodile quand il rencontre une superbe femelle ?Il Lacoste.
 
-The links should have the following structure:
+“Destiny has a lot to do with it, but so do you. You have to persevere, you have to insist.” – Andrea Bocelli
 
-<< previous || YOUR NAME || next >>
+
+<< [previous](https://github.com/francoisRoyen) || [Greg](https://github.com/GregDiCaro) || [next](https://github.com/Josue-U)>>
