@@ -11,6 +11,13 @@
 |:----|:-------------|:------|
 | art martiaux|  html css js| europe |
 
+|sport|      code    | voyage|
+|:----|:-------------|:------|
+| art martiaux|  html css js| europe |
+|1. | Birthday: 22/07|
+|2. | Favorite color: Yellow|
+|3. | Favorite color: Yellow|
+|4. |Pinneapple on pizza: yes [x] / no [ ]|
 
 
 1. Birthday: 22/07
