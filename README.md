@@ -13,8 +13,7 @@
 |1. | Birthday: 22/07|
 |2. | Favorite color: Yellow|
 |3. | Favorite color: Yellow|
-|4. |Pinneapple on pizza: - [x] yes  |
-|   |                     - [ ] no          |
+|4. |Pinneapple on pizza: <ul><li>- [x] yes</li><li>- [ ] no</li></ul>        |
                          
 - [x] yes 
 - [ ] no
