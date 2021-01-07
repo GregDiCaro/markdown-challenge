@@ -10,9 +10,9 @@
 |sport|      code    | voyage|
 |:----|:-------------|:------|
 | art martiaux|  html css js| europe |
-|1. | Birthday: 22/07|
-|2. | Favorite color: Yellow|
-|3. | Favorite color: Yellow|
+|1. | Birthday: |22/07
+|2. | Favorite color: |Yellow
+|3. | Favorite food: pizza|
 |4. |Pinneapple on pizza: <ul><li>- [x] yes</li><li>- [ ] no</li></ul>        |
                          
 
