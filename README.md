@@ -17,6 +17,7 @@
 2. Favorite color: Yellow
 3. Favorite food: Pizza
 4. Pinneapple on pizza: yes [x] / no [ ]
+- [x] Venus
 
 ### Hobbies 
 
